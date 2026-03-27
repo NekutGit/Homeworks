@@ -1,0 +1,3 @@
+Welcome to our collection of sample TXT files.
+Plain text files are the most basic and universal type of document, readable by virtually all text editors and word processors.
+These samples are ideal for developers, testers, and anyone working with text processing or data handling applications.
